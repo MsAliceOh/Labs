@@ -1,0 +1,19 @@
+body{
+    background-color: white ;
+}
+header{
+    background-color: white;
+}
+main {
+    background-color: white ;
+}
+aside {
+    background-color: grey;
+}
+
+table, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    color: black;
+    text-underline: none;
+}
