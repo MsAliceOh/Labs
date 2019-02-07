@@ -9,6 +9,11 @@ main {
 }
 aside {
     background-color: grey;
+    float: left;
+}
+
+div {
+    float: right;
 }
 
 table, th {
@@ -16,4 +21,11 @@ table, th {
     border-collapse: collapse;
     color: black;
     text-underline: none;
+}
+
+#cheesePic {
+    width: 100px
+}
+#cheeseStore {
+    width: 150px
 }
