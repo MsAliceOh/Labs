@@ -1,20 +1,23 @@
 body{
-    background-color: red;
+    background-color: white;
 }
 header{
-    background-color: green;
+    background-color: white;
 }
 main {
-    background-color: blue;
+    background-color: white;
 }
 
 section {
-    background-color: orange;
+    background-color: white;
 }
 
 aside {
-    background-color: yellow;
+    background-color: white;
 }
 article {
-    background-color: purple;
+    background-color: white;
+}
+footer {
+    background-colour: black;
 }

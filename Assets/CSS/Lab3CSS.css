@@ -37,6 +37,8 @@ li a:hover {
 
 #hos {
     width: 200px;
+    float: left;
+    padding-right: 10px;
 }
 
 h1 {,
@@ -50,4 +52,14 @@ p, h2,h3,h4,h5, a{
 h3,h4,h5 {
     font-family: 'Calibri Light', sans-serif;
     font-weight: 400;
+}
+
+#news {
+    background-color: mediumpurple;
+}
+#events {
+    background-color: purple;
+}
+aside{
+    color: white;
 }
