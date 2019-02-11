@@ -1,0 +1,21 @@
+body{
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Bernard MT Condensed"
+}
+
+header {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+main {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+tweet {
+    margin-left: auto;
+    margin-right: auto;
+}
