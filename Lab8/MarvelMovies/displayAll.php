@@ -12,7 +12,7 @@ $db = mysqli_connect(DB_SERVER,DB_USERNAME,DB_PASSWORD,DB_DATABASE);
 $sql = "SELECT title FROM marvelmovies";
 $result = mysqli_query($db,$sql);
 
-if ($result->num_rows > 0) {
+if (mysqli_num_rows($result) > 0) {
     while($row = $result->fetch_assoc()) {
        echo "title: " . $row["title"] . "<br>";
     }
